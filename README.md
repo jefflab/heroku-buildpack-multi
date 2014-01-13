@@ -1,3 +1,9 @@
+# This is just a fork of https://github.com/ddollar/heroku-buildpack-multi
+
+Please use the ddollar version!
+
+--------------------------------------------------------------------------------------
+
 # heroku-buildpack-multi
 
 Use multiple buildpacks on your app
